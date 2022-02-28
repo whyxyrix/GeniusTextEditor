@@ -1,2 +1,2 @@
-# GeniusTextEditor
-Console editor for make texts for Genius
+# Programming language
+This program written in C++
